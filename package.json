@@ -1,0 +1,9 @@
+{
+  "name": "personal-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Static site — no build step needed. Files ready for deployment.'"
+  }
+}
